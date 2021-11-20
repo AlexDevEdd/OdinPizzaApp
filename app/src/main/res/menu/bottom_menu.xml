@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_item"
+        android:title="@string/main_item"
+        android:enabled="true"
+        android:icon="@drawable/main_icon"
+        />
+    <item
+        android:id="@+id/cabinet_item"
+        android:title="@string/cabinet_item"
+        android:enabled="true"
+        android:icon="@drawable/cabinet_icon"
+        />
+    <item
+        android:id="@+id/about_us_item"
+        android:title="@string/about_us"
+        android:enabled="true"
+        android:icon="@drawable/about_us_icon"
+        />
+</menu>
